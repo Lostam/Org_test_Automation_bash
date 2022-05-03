@@ -1,12 +1,12 @@
 GitHub:
   Org_test_Automation:
-    path: jfbetapipeorg/Org_test_Automation
+    path: Lostam/Org_test_Automation
   Org_test_Automation_bash:
-    path: jfbetapipeorg/Org_test_Automation_bash
+    path: Lostam/Org_test_Automation_bash
   Org_test_Automation_PowerShell:
-    path: jfbetapipeorg/Org_test_Automation_PowerShell
+    path: Lostam/Org_test_Automation_PowerShell
   Org_test_Automation_Webhooks:
-      path: jfbetapipeorg/Org_test_Automation_Webhooks
+      path: Lostam/Org_test_Automation_Webhooks
 
 GitHubEnterprise:
   Org_test_Automation:
